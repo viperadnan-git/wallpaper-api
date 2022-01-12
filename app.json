@@ -1,0 +1,22 @@
+{
+    "name": "Wallpaper API",
+    "description": "This API can be used for setting daily wallpapers on a mobile device by combining it with an app such as IFTTT.",
+    "keywords": [
+        "wallpaper",
+        "wallpaper-cave",
+        "fastapi",
+        "wallpaper-api",
+        "api"
+    ],
+    "website": "https://github.com/viperadnan-git/wallpaper-api",
+    "repository": "https://github.com/viperadnan-git/wallpaper-api",
+    "logo": "https://small-sharp-tool.com/logo.svg",
+    "success_url": "/",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/python"
+}

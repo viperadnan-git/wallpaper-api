@@ -1,0 +1,4 @@
+*.env
+test.py
+__pycache__
+.deta

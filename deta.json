@@ -1,0 +1,5 @@
+{
+    "name": "Wallpaper API",
+    "description": "This API can be used for setting daily wallpapers on a mobile device by combining it with an app such as IFTTT.",
+    "runtime": "python3.9"
+}
